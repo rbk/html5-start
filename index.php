@@ -13,7 +13,9 @@
 	<script src="http://yourdomain.com:123456/livereload.js"></script>
 </head>
 <body>
-	<header></header>
+	<header>
+		<h1>Change me</h1>
+	</header>
 	<nav></nav>
 	<main role="content" id="content">
 		
